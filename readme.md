@@ -47,7 +47,7 @@ pip install -r requirements.txt
 <h3>6. Add API keys to .env file</h3>
 
 - Rename .env.example to .env
-- Add the API keys for Supabase and OpenAI to the .env file
+- Add the API key for OpenAI to the .env file
 
 <h2>Executing the scripts</h2>
 
